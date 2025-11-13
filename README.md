@@ -32,11 +32,42 @@
 | soft_skills_4	   | varchar	  | Четвёртый дополнительный навык, который требуется от кандидата
 
 ### Что нужно сделать
+
 1. Определите диапазон заработных плат в общем, а именно средние значения, минимумы и максимумы нижних и верхних порогов зарплаты.
+
+<img width="1113" height="70" alt="image" src="https://github.com/user-attachments/assets/54e479e3-47f3-45f6-8f3e-aa507fa3aeb9" />
+
+
 2. Выявите регионы и компании, в которых сосредоточено наибольшее количество вакансий.
+
+2.1 Количество ваканский по регионам:    
+<img width="449" height="484" alt="image" src="https://github.com/user-attachments/assets/70028869-7dd4-4668-81a6-f2872a9ac9f5" />
+
+2.2 Количество вакансий по компаниям:     
+<img width="862" height="483" alt="image" src="https://github.com/user-attachments/assets/229e7722-f2ff-488f-a9c5-9163c96eddd8" />
+
+
 3. Проанализируйте, какие преобладают типы занятости, а также графики работы.
+
+3.1 Количество вакансий по типу занятости:    
+<img width="366" height="133" alt="image" src="https://github.com/user-attachments/assets/993404e9-090b-4fa3-8c84-f9a1b673e8cc" />
+
+3.2 Количество вакансий по графику работы:    
+<img width="344" height="139" alt="image" src="https://github.com/user-attachments/assets/66461ddf-6f90-415a-a473-06a4f58d5308" />
+
+
 4. Изучите распределение грейдов (Junior, Middle, Senior) среди аналитиков данных и системных аналитиков.
+
+4.1 Распределение грейдов: Data Analyst vs System Analyst + Общее: 
+<img width="752" height="110" alt="image" src="https://github.com/user-attachments/assets/e6b5fcd5-33c9-4db7-a4b3-7816dfd9c2ce" />
+
+
 5. Выявите основных работодателей, предлагаемые зарплаты и условия труда для аналитиков.
+
+<img width="1567" height="386" alt="image" src="https://github.com/user-attachments/assets/4db746f4-7b23-4d42-8b24-ae2d197b9995" />
+
+
 6. Определите наиболее востребованные навыки (как жёсткие, так и мягкие) для различных грейдов и позиций.
 
+<img width="799" height="347" alt="image" src="https://github.com/user-attachments/assets/afbfb1ba-b90e-4be2-a897-62168ecd3d13" />
 
